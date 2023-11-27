@@ -31,7 +31,7 @@
                 </div>
             @endif
 
-            <p>contact: 0000000000 655646655444</p>
+            <p>contact: 123456789 asdfasdf</p>
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8 col-xs-12">
                 <div class="flex justify-center">
